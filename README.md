@@ -86,10 +86,6 @@ You can start Stubo from your env root dir:
 
     $ cd ../env    
 
-You can start Stubo from your env root dir: 
-
-    $ cd ../env    
-
 Active your virtual python env:
 
     $ source ./bin/activate
